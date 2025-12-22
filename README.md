@@ -1,6 +1,6 @@
 # Política de Privacidad - Balloon Prick
 
-🌐 **URL oficial:** https://github.com/AL-Universes/privacy-policy-balloon-prick
+🌐 **URL oficial:** https://al-universes.github.io/privacy-policy-balloon-prick/
 
 ## 📋 Sobre este repositorio
 Este repositorio contiene la política de privacidad oficial del juego **Balloon Prick**, desarrollado por **A&L Universes**.
