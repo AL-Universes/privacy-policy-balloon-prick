@@ -35,7 +35,7 @@ Para preguntas sobre privacidad:
 - Asunto: "Privacidad - Balloon Prick"
 
 ## ⚖️ Actualizaciones
-Esta política fue actualizada por última vez el **22 de diciembre de 2025**.
+Esta política fue actualizada por última vez el **3 de marzo de 2026**.
 
 ---
 
